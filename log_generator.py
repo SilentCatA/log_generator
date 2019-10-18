@@ -1,10 +1,3 @@
-# Features included:
-#    - Read log
-#    - List exsiting log
-#    - Write to log
-#    - Automated get time of each log line
-#    - Users can specify the log file's name
-#    - Confirm before commit
 from datetime import datetime
 import os
 import pathlib
