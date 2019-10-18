@@ -6,7 +6,6 @@ import pathlib
 while True:
     print('-----------------------------------------------------------')
     print("\t\tA simple program to write and read your log!")
-    print("\t\tA simple program to write your log!")
     option = input('Press q to cancel or any key to continue. ').lower()
     if option == 'q':
         break
