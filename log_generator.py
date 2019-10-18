@@ -1,7 +1,3 @@
-# Features included:
-#    - Write to log
-#    - Automated get time of each log line
-#    - Confirm before commit
 from datetime import datetime
 import os
 import pathlib
