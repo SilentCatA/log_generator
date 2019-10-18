@@ -11,3 +11,5 @@ Features included:
 	+ Please note that youo have to specify it's extension as well
 	e.g: <filename>.txt
    - Confirm before commit message to write to log
+   - Log is stored in 'log_dir/<log.txt>'
+   - Log format: <time>: <message>
